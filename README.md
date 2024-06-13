@@ -1,11 +1,11 @@
 ## Hi there 👋 It's me Jeevan Larosh
 
-Linux Networking & System Administrator
+DevOps, AWS Cloud, Frontend Dev, Linux Network Admin
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://jeevan-sysadmin.github.io/)                                                 
-- 🌱 I’m currently learning CCNA
-- 👯 I’m looking to collaborate on Networking Projects & Mobile Application Development.
-- 🤔 I’m looking for career growth in Linux Networking & Application development.
+- 🌱 I’m currently learning CCNA & AWS
+- 👯 I’m looking to collaborate on Networking Projects,DevOps,AWS Cloud,Frontend Dev & Mobile Application Development.
+- 🤔 I’m looking for career growth in Linux Networking,DevOps AWS & Frontend Developer .
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/channels/@jeevan12) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeevan-larosh/)
